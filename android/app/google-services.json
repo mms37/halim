@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190339147513",
+    "project_id": "halim-f65a0",
+    "storage_bucket": "halim-f65a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190339147513:android:95d2899f3277352a6c2428",
+        "android_client_info": {
+          "package_name": "com.example.halim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuldqGTgNEpylrUDdsPGF_fj42iHeX0vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
